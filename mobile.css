@@ -19,6 +19,7 @@ div {
     height: 100px;
 }
 #p1 {
+    font-family: Lucida Console, Courier New, monospace;
   font-size: x-small;
 }
 #p2 {
