@@ -11,12 +11,23 @@
         flex-direction: column;
         align-items: center;
         }
-    div {
+    .links {
         font-family: Lucida Console, Courier New, monospace; 
-        font-size:1vw;;
+        font-size:1vw;
       }
+    .music-link:hover {
+      text-decoration: underline;
+    }
+    .ig-link:hover {
+      text-decoration: underline;
+    }
+    .merch-link:hover {
+      text-decoration: underline;
+    }
+    .link-under-line {
+        text-decoration: none;
+    }
     .p1 {
-        font-family: Lucida Console, Courier New, monospace;
         font-size: 100%;
     }
     .p2 {
